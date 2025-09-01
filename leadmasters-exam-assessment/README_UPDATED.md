@@ -12,7 +12,7 @@ A web-based platform for conducting online exams with secure authentication, tim
 ## Screenshots
 
 ### Login Page
-![Login Page]()
+![Login Page](leadmasters-exam-assessment/images/login.png.png)
 
 ### Exam Interface
 ![Exam Interface](leadmasters-exam-assessment/images/exam-interface.png.png)
