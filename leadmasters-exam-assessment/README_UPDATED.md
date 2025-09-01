@@ -12,10 +12,10 @@ A web-based platform for conducting online exams with secure authentication, tim
 ## Screenshots
 
 ### Login Page
-![Login Page](./images/login.png)
+![Login Page]()
 
 ### Exam Interface
-![Exam Interface](./images/exam-interface.png)
+![Exam Interface](leadmasters-exam-assessment/images/exam-interface.png.png)
 
 > **Note:** Place your images in an `images` folder at the root of the project for proper display.  
 > To add screenshots:
