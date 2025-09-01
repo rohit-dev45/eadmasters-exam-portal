@@ -15,7 +15,7 @@ A web-based platform for conducting online exams with secure authentication, tim
 ![Login Page](./images/login.png.png)
 
 ### Exam Interface
-![Exam Interface](./images/exam-interface.png.png)
+![Exam Interface](leadmasters-exam-assessment/images/exam-interface.png.png)
 
 > **Note:** Place your images in an `images` folder at the root of the project for proper display.  
 > To add screenshots:
